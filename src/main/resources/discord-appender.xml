@@ -1,0 +1,4 @@
+<included>
+    <appender name="DISCORD" class="com.agonyforge.arbitrader.logging.DiscordAppender">
+    </appender>
+</included>

@@ -1,0 +1,4 @@
+<included>
+    <appender name="SLACK" class="com.agonyforge.arbitrader.logging.SlackAppender">
+    </appender>
+</included>
